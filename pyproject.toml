@@ -1,0 +1,11 @@
+[tool.pyright]
+pythonVersion = "3.14"
+typeCheckingMode = "basic"
+reportMissingImports = "none"
+reportMissingTypeStubs = false
+pythonPlatform = "Windows"
+
+[tool.basedpyright]
+reportMissingImports = "none"
+reportMissingTypeStubs = false
+
